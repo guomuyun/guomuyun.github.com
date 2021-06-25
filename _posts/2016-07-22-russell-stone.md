@@ -1,7 +1,7 @@
 ---
 title: "罗素的石头"
 date: "2016-07-22"
-tags: [诗歌][逻辑]
+tags: [诗歌, 逻辑]
 categories: 
   - "article"
 ---

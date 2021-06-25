@@ -1,7 +1,7 @@
 ---
 title: "狄多之殇"
 date: "2016-05-09"
-tags: [诗歌][译文]
+tags: [诗歌, 译文]
 categories: 
   - "poem"
   - "article"

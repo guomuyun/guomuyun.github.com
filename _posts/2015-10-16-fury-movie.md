@@ -1,7 +1,7 @@
 ---
 title: "狂怒"
 date: "2015-10-16"
-tags: [影评][诗歌]
+tags: [影评, 诗歌]
 categories: 
   - "movie"
   - "comment"

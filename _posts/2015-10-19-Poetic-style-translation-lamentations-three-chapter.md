@@ -1,7 +1,7 @@
 ---
 title: "耶利米哀歌第三章新译"
 date: "2015-10-19"
-tags: [译文][诗歌]
+tags: [译文, 诗歌]
 categories: 
   - "poem"
   - "article"
