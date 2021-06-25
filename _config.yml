@@ -190,10 +190,10 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-gems: [jekyll-paginate]  
+# gems: [jekyll-paginate]  
 plugins: [jekyll-paginate]
 paginate: 10
-# paginate_path: "/page/:num/"
+paginate_path: "/page/:num/"
 
 kramdown:
   input: GFM
