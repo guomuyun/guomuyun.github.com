@@ -1,7 +1,7 @@
 ---
 title: "诗：《僵尸必须死》"
 date: "2015-11-15"
-Tags: [诗歌]
+tags: [诗歌]
 categories: 
   - "poem"
   - "article"
