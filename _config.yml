@@ -191,10 +191,9 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 gems: [jekyll-paginate]  
+plugins: [jekyll-paginate]
 paginate: 10
-paginate_path: "/page/:num/"
-plugins:
-  - jekyll-paginate
+# paginate_path: "/page/:num/"
 
 kramdown:
   input: GFM
