@@ -14,7 +14,7 @@ author: 暮云
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  关于本站: "关于本站"
+  关于本站: "aboutme"
   系列证道:
     - 申命记
     - 出埃及记: "https://guomuyun.github.io/tags/#%E5%8D%81%E8%AF%AB"
