@@ -6,7 +6,7 @@ categories:
   - "article"
 ---
 
-![罗素的石头](images/beepress4-1572665559.jpeg "罗素的石头")  
+
 
 我要给你画个方的圆
 
