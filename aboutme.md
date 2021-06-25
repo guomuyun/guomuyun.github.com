@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+本站是公众号“暮云的半导体”的备份站。主要内容有:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 讲章
+- 网课
 
-What else do you need?
+不定期更新。
 
-### My story
+### 关于我
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+我是一名家庭教会的牧师。
