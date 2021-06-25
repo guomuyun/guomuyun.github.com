@@ -1,7 +1,7 @@
 ---
 title: "我最爱的圣诞歌：《Mary Did You Know》"
 date: "2016-12-23"
-tags: [诗歌] [译文]
+tags: [诗歌, 译文]
 categories: 
   - "poem"
   - "article"
