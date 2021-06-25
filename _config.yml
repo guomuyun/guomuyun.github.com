@@ -14,7 +14,7 @@ author: 暮云
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  关于本站: "aboutme"
+  关于本站: "关于本站"
   系列证道:
     - 申命记
     - 出埃及记: "https://guomuyun.github.io/tags/#%E5%8D%81%E8%AF%AB"
@@ -22,7 +22,7 @@ navbar-links:
     - 以斯帖记
     - 约翰福音
     - 提多书
-  网课: "https://appWgurzMsp7670.h5.xiaoeknow.com"
+  古典教育网课: "https://appWgurzMsp7670.h5.xiaoeknow.com"
     
 
 # --- Logo --- #
@@ -70,9 +70,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -89,7 +89,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "暮云,讲章,证道,古典教育"
 
 # --- Colours / background image --- #
 
