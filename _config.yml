@@ -185,10 +185,10 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 
 # --- Pagination options --- #
-gems: [jekyll-paginate]  
+# gems: [jekyll-paginate]  
 plugins: [jekyll-paginate]
 paginate: 10
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
 
 kramdown:
   input: GFM
