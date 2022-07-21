@@ -1,5 +1,5 @@
 ---
-title: "使命的修辞"
+title: "使命的修辞（音频）"
 subtitle: 
 date: "2022-07-21"
 tags: [诗篇107]
